@@ -1,0 +1,5 @@
+asset,weight,standalone_volatility,marginal_risk_contribution,component_variance_contribution,risk_contribution_pct
+EQUITY_GROWTH,0.42,0.012258,7.5e-05,3.2e-05,0.834142
+QUALITY_EQUITY,0.28,0.007453,4.6e-05,1.3e-05,0.337459
+TREASURY_BOND,0.2,0.003338,-1.8e-05,-4e-06,-0.093027
+COMMODITY_HEDGE,0.1,0.007126,-3e-05,-3e-06,-0.078575
