@@ -6,3 +6,6 @@ AGENTS.md
 SOURCE.md
 .env
 .venv/
+.conda/
+.direnv/
+.pytest_cache/
