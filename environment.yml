@@ -1,4 +1,4 @@
-name: fe-covariance-risk-decomposition
+name: covariance-risk-decomposition
 channels:
   - conda-forge
 dependencies:

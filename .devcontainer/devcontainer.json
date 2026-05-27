@@ -11,7 +11,7 @@
         "ms-toolsai.jupyter"
       ],
       "settings": {
-        "python.defaultInterpreterPath": "/opt/conda/envs/fe-covariance-risk-decomposition/bin/python"
+        "python.defaultInterpreterPath": "/opt/conda/envs/covariance-risk-decomposition/bin/python"
       }
     }
   }
