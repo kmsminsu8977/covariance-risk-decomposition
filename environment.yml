@@ -5,4 +5,14 @@ dependencies:
   - python=3.11
   - pip
   - ipykernel
+  - jupyter
   - pytest
+  - numpy>=1.24
+  - pandas>=2.0,<3
+  - scipy>=1.10
+  - matplotlib>=3.7
+  - seaborn>=0.12
+  - statsmodels>=0.14
+  - scikit-learn>=1.3
+  - yfinance>=0.2
+  - pandas-datareader>=0.10
